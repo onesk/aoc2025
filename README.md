@@ -1,0 +1,2 @@
+Wanted to do it in Zig last year, ended up doing Emacs Lisp instead. No regrets.
+Having a short infatuation with the former during the fall of 2023, I really saw the potential for a somewhat arcane embedded project I had in mind. This idea turned out to be infeasible, so my primary motivation now is to get the feel of the language and decide whether it can replace Rust in at least some niches for me. We'll see.
