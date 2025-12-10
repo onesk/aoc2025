@@ -217,5 +217,5 @@ test "parts" {
     try std.testing.expectEqual(answer1, 131580);
 
     const answer2 = try part2(std.testing.allocator, input);
-    try std.testing.expectEqual(answer2, 47274292756692);
+    try std.testing.expectEqual(answer2, 6844224);
 }

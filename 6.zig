@@ -199,5 +199,5 @@ test "parts" {
     try std.testing.expectEqual(answer1, 5060053676136);
 
     const answer2 = try part2(std.testing.allocator, input);
-    try std.testing.expectEqual(answer2, 354149806372909);
+    try std.testing.expectEqual(answer2, 9695042567249);
 }
